@@ -70,6 +70,10 @@
     <activity android:name=".UiSettingsDemoActivity" />
     <activity android:name=".VisibleRegionDemoActivity" />
     <activity android:name=".polyline.PolylineDemoActivity" />
+
+    <activity android:name=".issues.PanningStopsWorkingActivity" />
+    <activity android:name=".issues.MissingOnCameraMoveActivity" />
+    <activity android:name=".issues.ZoomLevelDriftingActivity" />
   </application>
 
 </manifest>

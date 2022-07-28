@@ -345,4 +345,12 @@
         description="Text displayed below the Background Color Customization  - Programmatic demo title.">Demonstrates how to programmatically set a custom background color to a map.</string>
     <string name="show_map_tiles">Show Map Tiles</string>
 
+    <!-- Issues -->
+    <string name="panning_issue_label">Panning issue</string>
+    <string name="panning_issue_details">Demonstrates an issue with map panning when tilt gesture is disabled.</string>
+    <string name="missing_on_camera_move_issue_label">Missing onCameraMove issue</string>
+    <string name="missing_on_camera_move_issue_details">Demonstrates an issue with missing onCameraMove.</string>
+    <string name="zoom_level_drifting_issue_label">Zoom level drifting issue</string>
+    <string name="zoom_level_drifting_issue_details">Demonstrates an issue with drifting zoom level.</string>
+
 </resources>
