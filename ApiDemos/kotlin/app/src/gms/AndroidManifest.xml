@@ -74,6 +74,7 @@
     <activity android:name=".issues.PanningStopsWorkingActivity" />
     <activity android:name=".issues.MissingOnCameraMoveActivity" />
     <activity android:name=".issues.ZoomLevelDriftingActivity" />
+    <activity android:name=".issues.LabelTextsNotStyledActivity" />
   </application>
 
 </manifest>

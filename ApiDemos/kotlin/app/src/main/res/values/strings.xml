@@ -352,5 +352,7 @@
     <string name="missing_on_camera_move_issue_details">Demonstrates an issue with missing onCameraMove.</string>
     <string name="zoom_level_drifting_issue_label">Zoom level drifting issue</string>
     <string name="zoom_level_drifting_issue_details">Demonstrates an issue with drifting zoom level.</string>
+    <string name="label_texts_not_styled_issue_label">Label text styling issue</string>
+    <string name="label_texts_not_styled_issue_details">Demonstrates an issue with styling label texts.</string>
 
 </resources>

@@ -16,6 +16,7 @@
 
 package com.example.kotlindemos
 
+import com.example.kotlindemos.issues.LabelTextsNotStyledActivity
 import com.example.kotlindemos.issues.MissingOnCameraMoveActivity
 import com.example.kotlindemos.issues.PanningStopsWorkingActivity
 import com.example.kotlindemos.issues.ZoomLevelDriftingActivity
@@ -36,6 +37,9 @@ class DemoDetailsList {
       DemoDetails(R.string.zoom_level_drifting_issue_label,
           R.string.zoom_level_drifting_issue_details,
           ZoomLevelDriftingActivity::class.java),
+      DemoDetails(R.string.label_texts_not_styled_issue_label,
+          R.string.label_texts_not_styled_issue_details,
+          LabelTextsNotStyledActivity::class.java),
 
       DemoDetails(R.string.basic_demo_label,
                   R.string.basic_demo_details,
